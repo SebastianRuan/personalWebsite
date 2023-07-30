@@ -1,0 +1,31 @@
+
+.alternate-odd-row{
+    background-color: #eeeeee
+}
+
+.alternate-even-row{
+    background-color: white;
+}
+
+.project-description{
+    max-width: 350px;
+}
+
+.alternate-even-row .project-description{
+    display:inline-block;
+    margin-right: -150px;
+}   
+
+
+.alternate-odd-row .project-description{
+    display:inline-block;
+    margin: -150px;
+}
+
+.project-img{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+
